@@ -1,4 +1,4 @@
-# Clean Architecture starting point
+# Clean Architecture Basic Example
 
 ## About the project
 A starting point for Clean Architecture with ASP.NET Core. This is basic example of how to start clean architecture in a web api c# project.
