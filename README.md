@@ -24,7 +24,7 @@ At this moment, the startup configurations will be displayed in the terminal, as
 
 > You can also open the Solution file directly in Visual Studio, set the project CleanArch.Api.csproj as default, and press the F5 key to run the application.
 
-## documentation
+## Documentation
 
 This project includes documentation for the API endpoints created using [Swagger](https://swagger.io/).
 After running the application, simply access the URL  "http://localhost:{port}/docs/", where {port} should be replaced by the port on which the application is running on your computer.
